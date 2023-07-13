@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractClassTopic/AbstractClassTopic.iml" filepath="$PROJECT_DIR$/AbstractClassTopic/AbstractClassTopic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverrding/DynamicMethodDispatch/DynamicMethodDispatch.iml" filepath="$PROJECT_DIR$/MethodOverrding/DynamicMethodDispatch/DynamicMethodDispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceTopic/InterfaceTopic.iml" filepath="$PROJECT_DIR$/InterfaceTopic/InterfaceTopic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverrding/MethodOverrding.iml" filepath="$PROJECT_DIR$/MethodOverrding/MethodOverrding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-1.8.iml" filepath="$PROJECT_DIR$/java-1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suprConstructor/suprConstructor.iml" filepath="$PROJECT_DIR$/suprConstructor/suprConstructor.iml" />
+    </modules>
+  </component>
+</project>
