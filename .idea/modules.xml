@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClassTopic/AbstractClassTopic.iml" filepath="$PROJECT_DIR$/AbstractClassTopic/AbstractClassTopic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodOverrding/DynamicMethodDispatch/DynamicMethodDispatch.iml" filepath="$PROJECT_DIR$/MethodOverrding/DynamicMethodDispatch/DynamicMethodDispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass-Section-15/InnerClass-Section-15.iml" filepath="$PROJECT_DIR$/InnerClass-Section-15/InnerClass-Section-15.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceTopic/InterfaceTopic.iml" filepath="$PROJECT_DIR$/InterfaceTopic/InterfaceTopic.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodOverrding/MethodOverrding.iml" filepath="$PROJECT_DIR$/MethodOverrding/MethodOverrding.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-1.8.iml" filepath="$PROJECT_DIR$/java-1.8.iml" />
